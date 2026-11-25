@@ -1,5 +1,11 @@
 # FyraInput-Keyboard-Mouse PHP SDK
 
+<!-- simple-start:start -->
+Use FyraInput-Keyboard-Mouse from a PHP app.
+
+**Start here.** Run `composer require titancsa/fyrainput-keyboard-mouse`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
